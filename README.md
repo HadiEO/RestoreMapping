@@ -10,13 +10,13 @@ Earth Engine apps developed to support training data collection and algorithm de
 
 [https://hadicu06.users.earthengine.app/view/interactive-classification-eng](https://hadicu06.users.earthengine.app/view/interactive-classification-eng)
 [https://www.loom.com/share/3872a78a2e854c288302e98411b98ee7](https://www.loom.com/share/3872a78a2e854c288302e98411b98ee7)
-![HITL_ML_app]('assets/HITL_ML_app.jpeg')
+![HITL_ML_app]('./assets/HITL_ML_app.jpegassets/HITL_ML_app.jpeg')
 
 
 [https://hadicu06.users.earthengine.app/view/composites-explorer](https://hadicu06.users.earthengine.app/view/composites-explorer)
-![Composites_explorer]('assets/Composites_explorer.png')
+![Composites_explorer]('./assets/Composites_explorer.png')
 
 
 [https://hadicu06.users.earthengine.app/view/inspect-crowd-vs-experts-interpretation](https://hadicu06.users.earthengine.app/view/inspect-crowd-vs-experts-interpretation)
-![Composites_explorer]('assets/Inspect_experts_vs_crowd_part1.png')
-![Composites_explorer]('assets/Inspect_experts_vs_crowd_part2.png')
+![Composites_explorer]('./assets/Inspect_experts_vs_crowd_part1.png')
+![Composites_explorer]('./assets/Inspect_experts_vs_crowd_part2.png')
